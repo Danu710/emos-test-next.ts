@@ -6,7 +6,7 @@
 
 -install all depedencies with yarn install
 
--how to run use npm run dev
+-how to run use yarn dev
 
 
 
