@@ -4,7 +4,7 @@
 
 -Kloning Repository: Ketik perintah git clone diikuti dengan URL repository yang sudah Anda salin sebelumnya. Contoh:git clone https://github.com/nama-pengguna/nama-repository.git
 
--install all depedencies with npm install
+-install all depedencies with yarn install
 
 -how to run use npm run dev
 
